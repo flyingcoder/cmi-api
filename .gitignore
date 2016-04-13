@@ -3,6 +3,8 @@
 /public/storage
 /public/app
 /public/bower_components
+resources/views/index2.php
+resources/views/index.php
 Homestead.yaml
 Homestead.json
 .env
